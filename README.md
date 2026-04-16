@@ -170,22 +170,14 @@ make clean
 
 | # | What is Demonstrated | Screenshot |
 |---|----------------------|------------|
-| 1 | **Multi-container supervision**:  | 
-![Output](images/task1.1.png)<br>
-![Output](images/task1.2.png)<br> |
+| 1 | **Multi-container supervision**:  | ![Output](images/task1.1.png)<br>![Output](images/task1.2.png)<br> |
 | 2 | **Metadata tracking**:  |  ![Output](images/task2.png)<br>  |
 | 3 | **Bounded-buffer logging**:  | ![Output](images/task3.png)<br>  |
 | 4 | **CLI and IPC**:  | ![Output](images/task4.0.png)<br>  |
-| 5 | **Soft-limit warning**:  |
-![Output](images/task4.1.1.png)<br>
-![Output](images/task4.1.2.png)<br>  |
-| 6 | **Hard-limit enforcement**:  | 
-![Output](images/task4.2.1.png)<br>
-![Output](images/task4.2.2.png)<br>  |
+| 5 | **Soft-limit warning**:  | ![Output](images/task4.1.1.png)<br>![Output](images/task4.1.2.png)<br>  |
+| 6 | **Hard-limit enforcement**:  | ![Output](images/task4.2.1.png)<br> ![Output](images/task4.2.2.png)<br>  |
 | 7 | **Scheduling experiment**:  | ![Output](images/task5.png)<br> |
-| 8 | **Clean teardown**:  | 
-![Output](images/task6.1.png)<br>
-![Output](images/task6.2.png)<br>  |
+| 8 | **Clean teardown**:  | ![Output](images/task6.1.png)<br> ![Output](images/task6.2.png)<br>  |
 
 ---
 
