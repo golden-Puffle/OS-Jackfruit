@@ -177,7 +177,7 @@ make clean
 | 5 | **Soft-limit warning**:  | ![Output](images/task4.1.1.png)<br>![Output](images/task4.1.2.png)<br>  |
 | 6 | **Hard-limit enforcement**:  | ![Output](images/task4.2.1.png)<br> ![Output](images/task4.2.2.png)<br>  |
 | 7 | **Scheduling experiment**:  | ![Output](images/task5.png)<br> |
-| 8 | **Clean teardown**:  | ![Output](images/task6.1.png)<br> ![Output](images/task6.2.png)<br>  |
+| 8 | **Clean teardown**:  | ![Output](images/task 6.1.png)<br> ![Output](images/task6.2.png)<br>  |
 
 ---
 
